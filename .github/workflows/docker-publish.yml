@@ -24,4 +24,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: shyaan1/lab05 :latest
+          tags: shyaan1/lab05-app :latest
